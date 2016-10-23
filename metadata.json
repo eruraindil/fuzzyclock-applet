@@ -1,0 +1,8 @@
+{
+    "description": "Fork of the Cinnamon calendar applet that shows fuzzy clock instead of precise time.", 
+    "max-instances": -1, 
+    "dangerous": false, 
+    "uuid": "fuzzyclock@mroberts.me", 
+    "name": "Fuzzy Clock", 
+    "icon": "stock_calendar"
+}
